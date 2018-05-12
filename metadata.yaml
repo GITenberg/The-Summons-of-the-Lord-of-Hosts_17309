@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6767
     wikipedia: http://en.wikipedia.org/wiki/Bahá'u'lláh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17309#The-Summons-of-the-Lord-of-Hosts
 gutenberg_bookshelf: Bahá'í Faith
 gutenberg_issued: '2005-10-28'
 gutenberg_type: Text
