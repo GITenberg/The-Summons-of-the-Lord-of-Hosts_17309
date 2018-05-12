@@ -1,0 +1,29 @@
+_repo: The-Summons-of-the-Lord-of-Hosts_17309
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bahá'u'lláh
+    alias: Baha'u'llah
+    birthdate: 1817
+    deathdate: 1892
+    gutenberg_agent_id: '6767'
+    url: http://www.gutenberg.org/2009/agents/6767
+    wikipedia: http://en.wikipedia.org/wiki/Bahá'u'lláh
+description: ''
+gutenberg_bookshelf: Bahá'í Faith
+gutenberg_issued: '2005-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17309'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Bahai Faith -- Doctrines'
+- !lcc 'BP'
+title: The Summons of the Lord of Hosts
+url: http://www.gutenberg.org/ebooks/17309
